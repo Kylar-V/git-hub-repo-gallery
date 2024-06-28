@@ -8,7 +8,12 @@ body {
     justify-content: center;
     margin: 0;
     font-family: "Open Sans", sans-serif;
-    background-color: #fbf9de;
+    background-image: url("../img/2d8810dd-d42e-40a9-ae63-f7f74e8e25f6.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-size: 100%;
+    background-position: center; 
+    background-attachment: fixed; 
     color: #333;
     font-size: 16px;
 }
